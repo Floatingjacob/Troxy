@@ -100,5 +100,5 @@ A lightweight Python script to proxy Terraria server connections, enabling Xbox 
 
 ## Acknowledgments
 
-- Inspired by **Troxy** and community ESP32-based proxies.
+- Inspired by [**Troxy**](https://github.com/floatingjacob/troxy) and community ESP32-based proxies.
 - Built on **TShock** and Terraria server protocols.
