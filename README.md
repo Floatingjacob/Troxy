@@ -26,6 +26,15 @@ after you have your ESP32 all configured, launch terraria on a console or mobile
 after a few seconds (around 5) you should see a server called 'Terraria', hosted by 'TerrariaProxy'
 join it, and you SHOULD be connected to the real terraria server.
 
+## License 📜
+
+This project is under the **GNU General Public License v3.0 (GPL-3.0)**, which means:
+
+- ❌ You **cannot sell** this software without following the rules.  
+- 👤 You **must give original credit to me** if you modify it.  
+- 🔄 Any derivative work must also use the **GPL-3.0 license**.  
+
+Full license text here: [GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0.txt)  
 
 
 CREDITS
